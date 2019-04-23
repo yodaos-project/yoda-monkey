@@ -8,10 +8,7 @@
  * 最后的逗号是必须的
  */
 var actions = [
-  ['mockAsr', '音量到百分之一', 2],
-  ['mockAsr', '音量到百分之二十', 2],
-  ['mockAsr', '我要听歌', 5],
-  ['mockKeyboard', '{ "event": "keydown", "keyCode": 114 }', 2],
+  
 ]
 
 require('os').setPriority(-20)
